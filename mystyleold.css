@@ -1,0 +1,22 @@
+.widetdbig
+{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+.widetd
+{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+table
+{
+  border: black solid 2px;
+}
+td
+{
+  border: black solid 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

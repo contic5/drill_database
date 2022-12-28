@@ -1,0 +1,21 @@
+.limitwidth
+{
+  max-width: 800px !important;
+}
+body
+{
+  padding:50px !important;
+  background-color: lightblue;
+}
+.difficultyrowcell
+{
+  font-size: 24px;
+  column-span: 5;
+  font-weight: bold;
+}
+.categoryrowcell
+{
+  font-size: 18px;
+  column-span: 5;
+  font-weight: bold;
+}
